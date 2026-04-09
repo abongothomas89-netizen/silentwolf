@@ -1,5 +1,5 @@
 {
-  "name": "Silent WolfBot",
+  "name": "Silent Thomas bot",
   "description": "Professional WhatsApp Bot with auto-session authentication",
   "repository": "https://github.com/7silent-wolf/silentwolf.git",
   "build": {
@@ -12,7 +12,7 @@
     "restartPolicyMaxRetries": 10
   },
   "variables": {
-    "SESSION_ID": {
+    "SESSION_ID": {wolf_b9a45872
       "description": "REQUIRED: Your session ID. Must begin with 'WOLF-BOT'",
       "required": true
     }
