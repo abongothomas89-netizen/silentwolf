@@ -12,7 +12,7 @@
     "restartPolicyMaxRetries": 10
   },
   "variables": {
-    "SESSION_ID": {
+    "SESSION_ID": {cpt1::zmc7s-1775806381688-4693b35cc18c
       "description": "REQUIRED: Your session ID. Must begin with 'WOLF-BOT'",
       "required": true
     }
