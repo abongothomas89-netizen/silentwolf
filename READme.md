@@ -152,8 +152,8 @@ KABONG'O BOT runs on all major platforms:
 
 ## 🔗 Links
 
-- 🌍 [Deploy WOLFBOT](https://inspiring-genie-ebae09.netlify.app/)
-- 🔑 [Get Session Pair Code](https://7-w.vercel.app/wolf.html)
+- 🌍 [Deploy KABONG'O BOT](https://inspiring-genie-ebae09.netlify.app/)
+- 🔑 [Get Session Pair Code](https://7-w.vercel.app/KABONG'O.html)
 - 📦 [Download ZIP](https://github.com/sil3nt-wolf/silentwolf/archive/refs/heads/main.zip)
 - 🐙 [GitHub Repository](https://github.com/sil3nt-wolf/silentwolf)
 
@@ -165,7 +165,7 @@ KABONG'O BOT runs on all major platforms:
 </p>
 
 <p align="center">
-  <strong><span style="color:#00ff41">WOLF</span>BOT by <span style="color:#00ff41">Silent Wolf</span></strong>
+  <strong><span style="color:#00ff41">KABONG'O</span>BOT by <span style="color:#00ff41">Thomas</span></strong>
   <br>
   <sub>POWERED BY KABONG'O BOT WhatsApp Bot (KABONG'O BOT) © 2026</sub>
 </p>
