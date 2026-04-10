@@ -1,5 +1,5 @@
 {
-  "name": "WOLFBOT",
+  "name": "KABONG'O Bot",
   "description": "Professional WhatsApp Bot with auto-session authentication",
   "logo": "https://i.ibb.co/zWGkw7Jz/767022de0778.png",
   "keywords": ["whatsapp", "bot", "wolfbot", "baileys", "session"],
@@ -8,12 +8,12 @@
     "start": "node --no-warnings --experimental-global-webcrypto index.js"
   },
   "env": {
-    "SESSION_ID": {
-      "description": "REQUIRED: Your WhatsApp session ID. Must begin with 'WOLF-BOT:'",
+    "SESSION_ID": {0740143976
+      "description": "REQUIRED: Your WhatsApp session ID. Must begin with 'KABONG'O BOT:'",
       "value": "",
       "required": true
     },
-    "DATABASE_URL": {
+    "DATABASE_URL": {Thomas Bot 
       "description": "OPTIONAL: PostgreSQL connection string for persistent storage. Supports Heroku Postgres, Supabase, Neon, Railway, etc. Format: postgres://user:password@host:5432/dbname?sslmode=require — Leave blank to run on SQLite only.",
       "value": "",
       "required": false
