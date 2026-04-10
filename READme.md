@@ -138,7 +138,7 @@ Or deploy directly using the deploy button above for a one-click cloud setup.
 
 ## 🌐 Deployment Platforms
 
-WOLFBOT runs on all major platforms:
+KABONG'O BOT runs on all major platforms:
 
 - **Replit** — recommended for beginners, always-on
 - **Heroku** — cloud deployment with one click
