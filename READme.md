@@ -53,11 +53,11 @@
 
 ---
 
-## What is WOLFBOT?
+## What is KABONG'O Bot?
 
 **KABONG'O BOT** (also known as **Thomas bot**) is a powerful, fully-featured WhatsApp automation bot built by **Silent Wolf**. It runs on **Node.js** using the **Baileys v7** library and is designed for both personal use and group management. Whether you need AI-powered chat responses, media downloads, group moderation, or automated status reactions — WOLFBOT handles it all silently and efficiently.
 
-> Silent Wolf WhatsApp Bot — fast, intelligent, and always watching.
+> Thomas Bot WhatsApp Bot — fast, intelligent, and always watching.
 
 ---
 
@@ -166,5 +166,5 @@ WOLFBOT runs on all major platforms:
 <p align="center">
   <strong><span style="color:#00ff41">WOLF</span>BOT by <span style="color:#00ff41">Silent Wolf</span></strong>
   <br>
-  <sub>POWERED BY WOLF TECH — Silent Wolf WhatsApp Bot (WOLFBOT) © 2026</sub>
+  <sub>POWERED BY KABONG'O BOT WhatsApp Bot (KABONG'O BOT) © 2026</sub>
 </p>
