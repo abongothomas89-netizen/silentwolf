@@ -55,7 +55,7 @@
 
 ## What is KABONG'O Bot?
 
-**KABONG'O BOT** (also known as **Thomas bot**) is a powerful, fully-featured WhatsApp automation bot built by **Silent Wolf**. It runs on **Node.js** using the **Baileys v7** library and is designed for both personal use and group management. Whether you need AI-powered chat responses, media downloads, group moderation, or automated status reactions — WOLFBOT handles it all silently and efficiently.
+**KABONG'O BOT** (also known as **Thomas bot**) is a powerful, fully-featured WhatsApp automation bot built by **Silent Wolf**. It runs on **Node.js** using the **Baileys v7** library and is designed for both personal use and group management. Whether you need AI-powered chat responses, media downloads, group moderation, or automated status reactions — KABONG'O BOT handles it all silently and efficiently.
 
 > Thomas Bot WhatsApp Bot — fast, intelligent, and always watching.
 
