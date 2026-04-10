@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<strong>🐺 𝕎𝕆𝕃𝔽 𝔹𝕆𝕋</strong>
+<strong>KABONG'O bot</strong>
 <br>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=WOLFBOT;Predator+Bot;Made+By+Silent+Wolf" alt="Typing SVG" style="font-size: 50px;"/>
@@ -21,7 +21,7 @@
 
 <br>
 
-**DEPLOY WOLFBOT**
+**DEPLOY KABONG'O bot**
 <br>
 <a href="https://inspiring-genie-ebae09.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/DEPLOY%20WOLFBOT-100000?style=for-the-badge&logo=heroku&logoColor=white&labelColor=darkgreen&color=darkgreen" alt="DEPLOY WOLFBOT"/>
@@ -55,7 +55,7 @@
 
 ## What is WOLFBOT?
 
-**WOLFBOT** (also known as **Silent Wolf**) is a powerful, fully-featured WhatsApp automation bot built by **Silent Wolf**. It runs on **Node.js** using the **Baileys v7** library and is designed for both personal use and group management. Whether you need AI-powered chat responses, media downloads, group moderation, or automated status reactions — WOLFBOT handles it all silently and efficiently.
+**KABONG'O BOT** (also known as **Thomas bot**) is a powerful, fully-featured WhatsApp automation bot built by **Silent Wolf**. It runs on **Node.js** using the **Baileys v7** library and is designed for both personal use and group management. Whether you need AI-powered chat responses, media downloads, group moderation, or automated status reactions — WOLFBOT handles it all silently and efficiently.
 
 > Silent Wolf WhatsApp Bot — fast, intelligent, and always watching.
 
