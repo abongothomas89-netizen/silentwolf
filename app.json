@@ -13,7 +13,7 @@
       "value": "",
       "required": true
     },
-    "DATABASE_URL": {Thomas Bot 
+    "DATABASE_URL": {KABONG'O BOT 
       "description": "OPTIONAL: PostgreSQL connection string for persistent storage. Supports Heroku Postgres, Supabase, Neon, Railway, etc. Format: postgres://user:password@host:5432/dbname?sslmode=require — Leave blank to run on SQLite only.",
       "value": "",
       "required": false
